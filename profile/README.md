@@ -1,4 +1,4 @@
-## Hi there 👋
+## Repositories for the Materials Data Science book 👋
 
 <!--
 
