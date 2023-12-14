@@ -2,7 +2,7 @@
 
 These repos contain supplementary material for the MDS book such as datasets, code, additional examples, ...
 
-The official companion webpage for the book is [here](https://MDS-book.org).
+The companion webpage for the book with more explanations is [here](https://MDS-book.org).
 
 <!--
 
